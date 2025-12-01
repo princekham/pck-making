@@ -14,3 +14,8 @@ The cost is more expensive than WiFi switch which is 101 bahts per each from laz
 - Power Supply - 200 bahts
 
 Total cost = 1158 Bahts = 144750 Kyats ~ 150000 Kyats
+
+## LORA board
+- Heltec Meshtastic LoRa WIFI LoRa 32 V3 Dev-Board SX1262 ESP32 0.96 Inch Blue OLED Display IOT for Arduino WIFI BLE (558 Bahts)
+- it can be used as lora gateway
+- 
