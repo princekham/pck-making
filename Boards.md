@@ -27,13 +27,17 @@ Total cost = 1158 Bahts = 144750 Kyats ~ 150000 Kyats
 ### Motion Detector (PIR Sensor)
 
 ### Water Level Sensor
-- Ultrasonic sensor
-- ESP8266
-- Hi-Link power supply
+- Ultrasonic sensor - 140 bahts = 17500
+- ESP8266 - 6000 Kyats
+- Hi-Link power supply - 10000 Kyats
+- Total 33500 Kyats
 
 ### Monitor
-- TFT monitor
-- ESP8266
-- Hi-Link power supply
+- TFT monitor - 6000 Kyats
+- Or LCD display 16x2 - 44 Bahts -5500
+- ESP8266 - 6000 Kyats
+- Hi-Link power supply - 10000 Kyats
+- PCB and casing - 5000
+- Total - 26000 Kyats
 
 ###
