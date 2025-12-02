@@ -1,4 +1,4 @@
-## Relay Switch material list
+### Relay Switch material list
 - 5 V relay ( 28 bahts)
 - Hi-Link power supply - HLK-PM01 (88 Bahts)
 - ESP32 or ESP8266 ( ESP32 mini - 108 bahts, ESP8266 mini - 50 Bahts)
@@ -7,7 +7,7 @@
 Total Cost = 28+88+50+50 = 216 bahts = 25920 Kyats
 The cost is more expensive than WiFi switch which is 101 bahts per each from lazada
 
-## MQTT server
+### MQTT server
 - Raspberry Pi Zero 2W - 880 bahts
 - RTC module - 28 bahts
 - PCB, casing - 50 Bahts
@@ -15,11 +15,11 @@ The cost is more expensive than WiFi switch which is 101 bahts per each from laz
 
 Total cost = 1158 Bahts = 144750 Kyats ~ 150000 Kyats
 
-## LORA board
+### LORA board
 - Heltec Meshtastic LoRa WIFI LoRa 32 V3 Dev-Board SX1262 ESP32 0.96 Inch Blue OLED Display IOT for Arduino WIFI BLE (558 Bahts)
 - it can be used as lora gateway
 - 
-## Artesian Well Pump control
+### Artesian Well Pump control
 - two WiFi controller
 - air outlet
 - 12 V Power supply
