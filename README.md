@@ -5,7 +5,7 @@
 
 
 ### Flatcam installation
-- run 'pip' in the folder : pip install -r requirements.txt
-- install QT using qt online installer
+- download exe file from https://forum.kicad.info/t/flatcam-open-source-gerber-file-editor/64775
+- 
 
 - 
