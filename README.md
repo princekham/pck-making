@@ -6,6 +6,19 @@
 
 ### Flatcam installation
 - download exe file from https://forum.kicad.info/t/flatcam-open-source-gerber-file-editor/64775
-- 
 
-- 
+- https://www.youtube.com/watch?v=qcC-meX2Kls
+
+#### Tools Information
+- tip: 0.1 mm, 10 degree,
+- diamenter :3.175 mm
+- calculated Tool diameter: 0.1061 mm
+
+#### Cut information
+- depth: -0.035 mm
+- calculated
+
+### BCNC
+- https://github.com/vlachoudis/bCNC
+- to run BCN python -m bCNC
+
