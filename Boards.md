@@ -7,13 +7,20 @@
 Total Cost = 28+88+50+50 = 216 bahts = 25920 Kyats
 The cost is more expensive than WiFi switch which is 101 bahts per each from lazada
 
-### MQTT server
+### MQTT server with Pi Zero 2W
 - Raspberry Pi Zero 2W - 880 bahts
 - RTC module - 28 bahts
 - PCB, casing - 50 Bahts
 - Power Supply - 200 bahts
-
 Total cost = 1158 Bahts = 144750 Kyats ~ 150000 Kyats
+
+### MQTT server with ESP32
+- ESP32 - 130 bahts
+- RTC module - 28 bahts
+- PCB, casing - 50 Bahts
+- Power Supply - 200 bahts
+
+Total cost = 408 Bahts = 25208 Kyats ~ 25000 Kyats
 
 ### LORA board
 - Heltec Meshtastic LoRa WIFI LoRa 32 V3 Dev-Board SX1262 ESP32 0.96 Inch Blue OLED Display IOT for Arduino WIFI BLE (558 Bahts)
